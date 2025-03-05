@@ -1,2 +1,2 @@
-# Weight-calculator
-Weight calculator built with html css and javascript
+# Weight-converter
+Weight converter built with html css and javascript
